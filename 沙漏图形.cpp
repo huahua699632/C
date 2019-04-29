@@ -1,3 +1,4 @@
+//输出超限，未正确理解图形的形状
 #include <cstdio>
 using namespace std;
 
